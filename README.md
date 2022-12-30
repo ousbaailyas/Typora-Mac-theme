@@ -9,4 +9,8 @@
 A customized theme inspired from MacOS UI design.
 
 ### Light Mode
-
+![light](https://github.com/ousbaailyas/Typora-Mac-theme/blob/master/light.png)
+![light](https://github.com/ousbaailyas/Typora-Mac-theme/blob/master/light-1.png)
+![light](https://github.com/ousbaailyas/Typora-Mac-theme/blob/master/light-2.png)
+### Dark Mode
+![light](https://github.com/ousbaailyas/Typora-Mac-theme/blob/master/dark.png)
